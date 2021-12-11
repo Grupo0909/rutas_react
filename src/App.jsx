@@ -1,9 +1,9 @@
 import React from 'react'
-
+import Inicio from './components/Inicio'
 
 const App = ()=>{
     return(
-        <h1>hola </h1>
+        <Inicio />
     )
 }
 
